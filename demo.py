@@ -1,0 +1,2 @@
+imie = "Ada"
+print(imie)
